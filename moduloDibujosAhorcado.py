@@ -1,7 +1,6 @@
 def error0():
     print("""
-print("Bienvenido al juego del ahorcado")
-
+Bienvenido al juego del ahorcado
 Llevas cero errores.    
    ________
      |   |
@@ -10,7 +9,6 @@ Llevas cero errores.
      |
      | 
 ----------
-
 Palabra a adivinar:
     """)
 
@@ -25,7 +23,6 @@ Llevas un error.
      |
      | 
 ----------
-
 Palabra a adivinar:
     """)
 
@@ -40,7 +37,6 @@ Llevas dos errores.
      |
      | 
 ----------
-
 Palabra a adivinar:
     """)
 
@@ -55,7 +51,6 @@ Llevas tres errores.
      |
      | 
 ----------
-
 Palabra a adivinar:
     """)
 
@@ -70,7 +65,6 @@ Llevas cuatro errores.
      |
      | 
 ----------
-
 Palabra a adivinar:
     """)
 
@@ -85,7 +79,6 @@ Llevas cinco errores.
      |    \\
      | 
 ----------
-
 Palabra a adivinar:
     """)
 
@@ -100,6 +93,5 @@ Llevas seis errores, perdiste.
      |  / \\
      | 
 ----------
-
     """)
     exit()
